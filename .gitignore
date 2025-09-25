@@ -1,24 +1,44 @@
-# Ignore Visual Studio temporary files
-.vs/
-*.user
-*.suo
+# Prerequisites
+*.d
 
-# Ignore build output
-Debug/
-Release/
-x64/
-x86/
+#VS
+*.vs
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
 *.obj
-*.exe
-*.dll
-*.pdb
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
 *.ilk
-*.idb
 
-# Ignore logs and temp
-*.log
-*.tlog
-*.tmp
+# Debugger Files
+*.pdb
 
-# Ignore project-specific user files
-*.vcxproj.user
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
