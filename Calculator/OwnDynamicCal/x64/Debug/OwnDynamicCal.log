@@ -1,6 +1,0 @@
-﻿  OwnDyn.cpp
-D:\Experiments\Calculator\OwnDynamicCal\OwnDyn.cpp(5,7): error C2011: 'OwnDyn': 'class' type redefinition
-  (compiling source file '/OwnDyn.cpp')
-      D:\Experiments\Calculator\OwnDynamicCal\OwnDyn.h(3,7):
-      see declaration of 'OwnDyn'
-  
