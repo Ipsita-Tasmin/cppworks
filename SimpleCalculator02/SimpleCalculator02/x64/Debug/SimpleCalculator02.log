@@ -1,0 +1,3 @@
+﻿  SimpleCalculator02.cpp
+D:\Experiments\SimpleCalculator02\SimpleCalculator02\SimpleCalculator02.cpp(50,25): warning C4101: 'result': unreferenced local variable
+  SimpleCalculator02.vcxproj -> D:\Experiments\SimpleCalculator02\x64\Debug\SimpleCalculator02.exe
